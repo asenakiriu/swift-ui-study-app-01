@@ -11,7 +11,7 @@ import SwiftUI
 struct nyan_demo1App: App {
     var body: some Scene {
         WindowGroup {
-            Content2View()
+            SplashAppView()
         }
     }
 }
